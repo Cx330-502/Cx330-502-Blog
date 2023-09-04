@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 52Hz的鲸歌
+subtitle: '一些随便写写的~'
+description: '我与春风皆过客，你携秋水揽星河'
+keywords: 博客
+author: Cx330-502
+language: zh-CN
 timezone: ''
 
 # URL
@@ -103,3 +103,12 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+kramed:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
