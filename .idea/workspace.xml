@@ -7,6 +7,7 @@
     <list default="true" id="6d3730ff-dc4c-4fc7-bcb3-09d2a5e197a1" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.butterfly.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.butterfly.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712663661333</updated>
       <workItem from="1712663667189" duration="785000" />
-      <workItem from="1712664964493" duration="152000" />
+      <workItem from="1712664964493" duration="339000" />
     </task>
     <servers />
   </component>
