@@ -647,7 +647,7 @@ tag_ui: # 留空或 index
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 #background: url("/Cx330-502-Blog/files_/pics/bg-cover/3.jpg")
-background: /files_/pics/bg-cover/3.jpg
+background: url(/Cx330-502-Blog/files_/pics/bg-cover/3.jpg)
 
 # Footer Background
 footer_bg: true
