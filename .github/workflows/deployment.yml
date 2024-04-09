@@ -33,7 +33,7 @@ jobs:
       env:
         GIT_NAME: Cx330-502
         GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-        REPO: github.com/Cx330-502/Cx330-502.github.io
+        REPO: github.com/Cx330-502/Cx330-502-Blog
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         cd ./public && git init && git add .
