@@ -52,6 +52,26 @@ a {
 #article-container p {
   font-weight: 500;
 }
+/*引用块*/
+blockquote {
+    color: #384e67;
+}
+/**/
+h2 {
+    font-size: 1.5em;
+}
+h3 {
+    font-size: 1.4em;
+}
+h4 {
+    font-size: 1.3em;
+}
+h5 {
+    font-size: 1.2em;
+}
+h6 {
+    font-size: 1.1em;
+}
 /* 页脚footer */
 /* 渐变色滚动动画 */
 /* @-webkit-keyframes Gradient {
