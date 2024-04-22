@@ -653,7 +653,8 @@ tag_ui: # 留空或 index
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 #background: url("/Cx330-502-Blog/files_/pics/bg-cover/3.jpg")
-background: url(/Cx330-502-Blog/files_/pics/bg-cover/3.jpg)
+#background: url(/Cx330-502-Blog/files_/pics/bg-cover/3.jpg)
+background: url(/files_/pics/bg-cover/3.jpg)
 
 # Footer Background
 footer_bg: true
@@ -921,7 +922,8 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <link rel="stylesheet" href="/Cx330-502-Blog/files_/css/mycss.css">
+    - <link rel="stylesheet" href="/files_/css/mycss.css">
+#    - <link rel="stylesheet" href="/Cx330-502-Blog/files_/css/mycss.css">
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     # - <script src="xxxx"></script>
